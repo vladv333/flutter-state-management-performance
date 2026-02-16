@@ -1,0 +1,5 @@
+targets:
+  $default:
+    builders:
+      mobx_codegen|mobx_repo_generator:
+        enabled: true
